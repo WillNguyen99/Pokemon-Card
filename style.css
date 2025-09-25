@@ -1,0 +1,176 @@
+.outside{
+  
+  width: 300px;
+  height: 470px;
+  border: 10px solid yellow;
+  border-radius: 15px;
+  
+}
+
+.background{
+  
+  width: 300px;
+  height: 470px;
+  background-color: #C154FA;
+  border-radius: 8px;
+
+  
+}
+
+.mewtwo {
+  
+  z-index: 10;
+  top: 60px;
+  left: 35px;
+  position: absolute;
+  
+}
+
+.basic{
+  
+  z-index: 10;
+  top: 20px;
+  left: -12px;
+  scale: 0.5;
+  position: absolute;
+  
+}
+
+h1{
+  
+  background-color: #C154FA;
+  position: absolute;
+  top: 12px;
+  background: transparent;
+  font-family: 'Arial Black', Arial, sans-serif;
+  font-size: 18px;
+  left: 80px;
+ 
+  
+}
+
+.hp{
+  
+  font-family: 'Arial Black', Arial, sans-serif;
+  font-size: 9px;
+  left: 220px;
+  top: 41px;
+  position: absolute;
+  
+  
+}
+
+.hpValue {
+  
+  font-family: 'Arial Black', Arial, sans-serif;
+  font-size: 18px;
+  left: 235px;
+  top: 30px;
+  position: absolute;
+  
+  
+}
+
+.psychicEye{
+  
+  scale: 0.7;
+  left: 270px;
+  position: absolute;
+  top: 19px;
+  
+}
+
+.ability{
+  
+  position: absolute;
+  top: 242px;
+  scale: 0.7;
+  
+}
+
+.abilityName{
+  
+  font-family: 'Arial Black', Arial, sans-serif;
+  color: #8B0000;
+  position: absolute;
+  top: 244px;
+  left: 135px;
+  
+}
+
+.abilityDescription{
+  
+  font-size: 11px;
+  position: relative;
+  top: 250px;
+  left: 5px;
+
+}
+
+.tripleEye{
+  
+  scale: 0.65;
+  position: absolute;
+  top: 340px;
+  left: 8px;
+  
+}
+
+.moveName{
+  
+  font-family: 'Arial Black', Arial, sans-serif;
+  position: absolute;
+  top: 343px;
+  left: 115px;
+  font-size: 14px;
+  
+ 
+}
+
+.moveValue{
+  
+    font-family: 'Arial Black', Arial, sans-serif;
+  position: absolute;
+  top: 343px;
+  left: 280px;
+  font-size: 14px;
+  
+}
+
+.resistances{
+  
+  scale: 0.3;
+  position: absolute;
+  left: -195px;
+  top: 413px;
+  
+}
+
+.retreat{
+  
+  scale: 0.5;
+  position: absolute;
+  top: 425px;
+  left: 155px;
+  
+}
+
+.identifier{
+  
+  scale: 0.5;
+  position: absolute;
+  top: 440px;
+  left: -5px;
+  
+}
+
+.pokedex{
+  
+  top: 440px;
+  position: absolute;
+  width: 150px;
+  font-size: 9px;
+  left: 175px;
+  
+}
+
